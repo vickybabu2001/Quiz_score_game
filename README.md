@@ -1,2 +1,2 @@
-# Quiz_score_game
+# Digital clock 
 this project is created by html,css,and javascript
