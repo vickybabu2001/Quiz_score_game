@@ -1,0 +1,20 @@
+
+body{
+	background:url("./images.jpg");
+
+}
+.container{
+	padding-top: 250px;
+	padding-left: 540px;
+	  align-items: center;
+	  justify-content: center;
+
+}
+.clock{
+	margin-left: 40px;
+   
+}
+  #am{
+	padding-left: 10px;
+}
+ 
